@@ -102,6 +102,11 @@ p {
   text-decoration: none;
 }
 
+.certificate-row {
+  margin: 20px auto;
+  width: 50%;
+}
+
 .footer-link:hover {
   color: #EAF6F6;
 }
